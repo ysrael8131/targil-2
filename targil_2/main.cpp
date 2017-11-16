@@ -3,6 +3,7 @@ int main()
 {
 	int nnn;
 	int mmmm;
+	"dafdsfvrwgfvwrfvgwr"
 	DisjointSets ds;
 	Volunteer *v1;
 	int id1, id2;
