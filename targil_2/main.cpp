@@ -3,7 +3,6 @@ int main()
 {
 	int nnn;
 	int mmmm;
-	string a = "איזה תותח";
 	DisjointSets ds;
 	Volunteer *v1;
 	int id1, id2;
