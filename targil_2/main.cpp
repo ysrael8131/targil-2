@@ -1,9 +1,6 @@
 #include "disjointSets.h"
 int main()
 {
-	int nnn;
-	int mmmm;
-	int a = 9999;
 	DisjointSets ds;
 	Volunteer *v1;
 	int id1, id2;
