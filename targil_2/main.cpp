@@ -1,7 +1,7 @@
 #include "disjointSets.h"
 int main()
 {
-	
+	int nnn;
 
 	DisjointSets ds;
 	Volunteer *v1;
