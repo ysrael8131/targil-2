@@ -15,7 +15,7 @@ int main()
 	cout << "p: Print all volunteers " << endl;
 	cout << "r: Print all representatives " << endl;
 	cout << "s: Print a specific set " << endl;
-
+	cout << "hbb" << endl;
 	cout << "e: exit:" << endl;
 	cin >> ch;
 	while (ch != 'e')
