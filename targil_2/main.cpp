@@ -2,7 +2,7 @@
 int main()
 {
 	int nnn;
-
+	int mmmm;
 	DisjointSets ds;
 	Volunteer *v1;
 	int id1, id2;
