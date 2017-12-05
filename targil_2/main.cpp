@@ -1,6 +1,15 @@
-#include "disjointSets.h"
+/*
+Targil 2
+isreal rechtshaffer 301790283
+raz zorno 36786960
+*/
+
+
+#include "DisjointSets.h"
 int main()
 {
+
+
 	DisjointSets ds;
 	Volunteer *v1;
 	int id1, id2;
@@ -13,7 +22,7 @@ int main()
 	cout << "p: Print all volunteers " << endl;
 	cout << "r: Print all representatives " << endl;
 	cout << "s: Print a specific set " << endl;
-	cout << "hbb" << endl;
+
 	cout << "e: exit:" << endl;
 	cin >> ch;
 	while (ch != 'e')
@@ -50,3 +59,9 @@ int main()
 
 	}
 }
+
+
+
+
+
+
